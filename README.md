@@ -1,4 +1,4 @@
 # Cafe-Fontenebleau
 
-Primeiro site usando HTML e CSS
-baseado no curso desenvolvimento web iMedia Brasil
+First website using HTML and CSS
+based on the iMedia Brazil web development course
